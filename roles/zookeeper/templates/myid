@@ -1,0 +1,2 @@
+{{ zk_cluster_info[inventory_hostname]["zk_id"] }}
+
